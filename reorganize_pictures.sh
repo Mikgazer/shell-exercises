@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#riordina_foto.sh dir_sorgente dir_destinazione
+#reorganize_pictures.sh dir_sorgente dir_destinazione
 
 if test $# -ne 3 
 then
