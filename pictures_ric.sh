@@ -8,8 +8,7 @@ count=1
 
 for i in .JPG
     if test -f $i -a -r $i
-    then
-         
+    then  
         if test -e $2/$i
         then 
             while test -e "$2/duplicati/$i-$count"
