@@ -1,7 +1,7 @@
 
 #!/bin/sh
 
-#foto_ric.sh dir_sorgente dir_destinazione
+#pictures_ric.sh dir_sorgente dir_destinazione
 
 cd $1
 count=1
