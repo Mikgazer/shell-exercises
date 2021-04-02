@@ -10,7 +10,7 @@ if test $stringa -f
 fi
 
 if test $file -d
-   echo " $stringa e' un direttorio"
+   echo " $stringa e' una directory"
    exit 3
 fi
 
