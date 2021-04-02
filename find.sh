@@ -10,7 +10,7 @@ fi
 dir=$1
 if test $dir ! -d 
     then    
-        echo "Il primo parametro deve essere un direttorio"
+        echo "Il primo parametro deve essere un directory"
         exit 2
 fi
 
