@@ -1,2 +1,2 @@
 # shell-exercises
-Some bash exercises coded throughout the Operating Systems course
+Some bash exercises coded throughout the Operating Systems course.
